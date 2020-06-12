@@ -1,0 +1,13 @@
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\bin\Debug\netcoreapp3.1\BeatifuldaysattheMovies.exe
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\bin\Debug\netcoreapp3.1\BeatifuldaysattheMovies.deps.json
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\bin\Debug\netcoreapp3.1\BeatifuldaysattheMovies.runtimeconfig.json
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\bin\Debug\netcoreapp3.1\BeatifuldaysattheMovies.runtimeconfig.dev.json
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\bin\Debug\netcoreapp3.1\BeatifuldaysattheMovies.dll
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\bin\Debug\netcoreapp3.1\BeatifuldaysattheMovies.pdb
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\obj\Debug\netcoreapp3.1\BeatifuldaysattheMovies.csprojAssemblyReference.cache
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\obj\Debug\netcoreapp3.1\BeatifuldaysattheMovies.AssemblyInfoInputs.cache
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\obj\Debug\netcoreapp3.1\BeatifuldaysattheMovies.AssemblyInfo.cs
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\obj\Debug\netcoreapp3.1\BeatifuldaysattheMovies.csproj.CoreCompileInputs.cache
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\obj\Debug\netcoreapp3.1\BeatifuldaysattheMovies.dll
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\obj\Debug\netcoreapp3.1\BeatifuldaysattheMovies.pdb
+D:\hackerRank\BeatifuldaysattheMovies\BeatifuldaysattheMovies\obj\Debug\netcoreapp3.1\BeatifuldaysattheMovies.genruntimeconfig.cache
