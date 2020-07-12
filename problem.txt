@@ -1,0 +1,22 @@
+Lily tamsayılarla oyun oynamayı sever. Bir sayı ile tersi arasındaki farkı belirlediği yeni bir oyun yarattı. 
+Örneğin, 12 sayısı verildiğinde, tersi 21'dir. Farkları 9'dur. Tersine çevrilen 120 sayısı 21'dir ve farkları 99'dur.
+
+Oyununu karar vermeye uygulamaya karar verir. Çok sayıda güne bakacak ve sadece güzel bir günde bir filme gidecek.
+
+Bir dizi numaralı gün verildiğinde, [i ... j] ve bir sayı k, aralıktaki güzel gün sayısını belirler. 
+Güzel sayılar | i- reverse (i) | eşit olarak k ile bölünebilir. Bir günün değeri güzel bir sayı ise, 
+güzel bir gündür. Aralıktaki güzel gün sayısını yazdırın.
+
+İşlev Açıklama
+
+Aşağıdaki düzenleyicide beautifulDays işlevini tamamlayın. Aralıktaki güzel günlerin sayısını döndürmelidir.
+
+beautifulDays aşağıdaki parametrelere sahiptir:
+
+-i: başlangıç günü numarası
+-j: bitiş günü numarası
+-k: bölen
+
+Giriş Formatı
+
+İ, j ve k değerlerini tanımlayan, boşlukla ayrılmış üç tamsayının tek bir satırı.
